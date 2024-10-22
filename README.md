@@ -12,7 +12,7 @@ A simple practice web project built using HTML, Bootstrap, and custom CSS for st
 - [Contributing](#contributing)
 
 ## Live Demo
-You can view the live version of this project hosted on GitHub Pages [here](https://your-username.github.io/practice-web/).
+You can view the live version of this project hosted on GitHub Pages [here](https://udara18.github.io/studio/).
 
 ## Introduction
 This project is a basic web template designed to help practice frontend development using HTML, Bootstrap for layout and responsiveness, and custom CSS for additional styling. It's a great starting point for learning how to structure and style web pages.
